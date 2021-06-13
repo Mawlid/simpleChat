@@ -11,7 +11,7 @@ $app_id = 'XXXX';
 $app_key = 'XXXX';
 $app_secret = 'XXXX';
 
-###index.php
+### index.php
 var pusher = new Pusher('XXXX = app_id', {
 }
 
