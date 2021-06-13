@@ -3,7 +3,7 @@ A simpleChat using Pusher.
 
 ### Supscript pusher
 Link: [https://dashboard.pusher.com/accounts/sign_up]
-Your Credential you can find under App keys once you registried
+Your Credential you can find under App keys once you are registered
 
 ### bootstrap.php
 replace this with your own
